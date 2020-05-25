@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1024282411755",
+    "firebase_url": "https://androidrfid-6cf2d.firebaseio.com",
+    "project_id": "androidrfid-6cf2d",
+    "storage_bucket": "androidrfid-6cf2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024282411755:android:6af993c0e78f261ff4b4ae",
+        "android_client_info": {
+          "package_name": "root.nfc.androidrfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024282411755-ilsdj7kaof41fcin60lu1am7u0va76n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "root.nfc.androidrfid",
+            "certificate_hash": "4db5857a96c3d3daf3e5eaad68ce86783fb9875f"
+          }
+        },
+        {
+          "client_id": "1024282411755-cnntmirqit00j0tv5feg0h5u42t76r6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEmjJspkPA-h93s8_EwfFTkgfYbe09GPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024282411755-cnntmirqit00j0tv5feg0h5u42t76r6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
